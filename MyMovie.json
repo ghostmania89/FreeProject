@@ -1,0 +1,17 @@
+{
+  "channel_name": "Teka_Movie",
+  "fanart": "https://www.dropbox.com/s/7gfnv8stnw42vwg/GhostRider.jpg?dl=1",
+  "thumbnail": "https://www.dropbox.com/s/7gfnv8stnw42vwg/GhostRider.jpg?dl=1",
+  "menu": [
+    {
+      "title": "Film",
+      "link": "link diretto a FILE 2",
+      "thumbnail": "link diretto dell'immagine scelta"
+    },
+    {
+      "title": "Serie",
+      "link": "https://www.dropbox.com/s/pwz73cvy9gau5ky/SERIE%20TV%20%20-%20STAGIONI%20COMPLETE%20.xml?dl=1",
+      "thumbnail": "link diretto dell'immagine scelta"
+    }
+  ]
+} 
