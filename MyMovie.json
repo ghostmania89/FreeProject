@@ -1,18 +1,12 @@
 {
-  "channel_name": "Dylan Dog",
-  "fanart": "http://images6.fanpop.com/image/photos/40800000/Dylan-Dog-Inspector-Bloch-dylan-dog-comic-40833973-610-350.jpg",
-  "thumbnail": "https://i.imgur.com/uYouycn.png",
+  "channel_name": "STANLIO E OLLIO",
+  "fanart": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Laurel_and_Hardy.png/260px-Laurel_and_Hardy.png",
+  "thumbnail": "http://www.repstatic.it/content/localirep/img/rep-milano/2017/02/02/123326121-f38bfffe-ac6a-4ccc-9317-706314124efe.jpg",
   "menu": [
     {
-      "title": "Live",
-      "link": ".json",
-      "thumbnail": "https://i.imgur.com/uYouycn.png"
-    },
-    {
-      "title": "Vod",
-      "link": ".json",
-      "thumbnail": "https://i.imgur.com/uYouycn.png"
-	  "link": "https://pastebin.com/raw/nmWevZuz",
+      "title": "RACCOLTA (73 FILM)",
+      "link": "https://pastebin.com/raw/nmWevZuz",
+      "thumbnail": "http://www.repstatic.it/content/localirep/img/rep-milano/2017/02/02/123326121-f38bfffe-ac6a-4ccc-9317-706314124efe.jpg"
     }
   ]
 }
