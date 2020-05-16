@@ -1,3 +1,4 @@
+
 {
   "movies_list": [
     {
@@ -80,7 +81,7 @@
       "actors": ["Christian Bale","Michael Caine","Heath Ledger","Gary Oldman","Aaron Eckhart","Maggie Gyllenhaal","Morgan Freeman","Eric Roberts"],
       "links": [
         {
-          "url": "https://cb01.work/category/hd-alta-definizione/hd-1080p/",
+          "url": "",
           "quality":"HD"
         },
       ]
@@ -103,4 +104,3 @@
     }
   ]
 }
-
