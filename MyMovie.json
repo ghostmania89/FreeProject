@@ -2,6 +2,7 @@
   "movies_list": [
     {
       "title": "LIVE! – CORSA CONTRO IL TEMPO",
+	  "thumbnail": "https://d4-rtinfinitysf.akamaized.net/thumbs/PCTV/1000220524/poster-vh.jpg",
       "year": "2019",
       "saga": "AZIONE – DURATA 99",
       "director": "Jon Favreau",
@@ -86,3 +87,4 @@
     }
   ]
 }
+
