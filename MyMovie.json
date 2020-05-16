@@ -24,7 +24,7 @@
       "actors": ["Edward Norton", "Liv Tyler", "Tim Roth", "Tim Blake Nelson", "Ty Burrell", "William Hurt"],
       "links": [
         {
-          "url": "https://wstream.video/video6zvimpy52/bq6z7szh803d",
+          "url": "",
           "quality":"HD"
         }
       ]
@@ -80,9 +80,25 @@
       "actors": ["Christian Bale","Michael Caine","Heath Ledger","Gary Oldman","Aaron Eckhart","Maggie Gyllenhaal","Morgan Freeman","Eric Roberts"],
       "links": [
         {
-          "url": "",
+          "url": "https://cb01.work/category/hd-alta-definizione/hd-1080p/",
           "quality":"HD"
-        }
+        },
+      ]
+	  
+	      {
+      "title": "TRAUMA CENTER",
+	  "thumbnail": "https://d4-rtinfinitysf.akamaized.net/thumbs/PCTV/1000220524/poster-vh.jpg",
+	  "info": "Rimasta sola e intrappolata in un reparto ospedaliero isolato di notte, una giovane donna ferita deve fuggire da un paio di feroci assassini alla ricerca dell’unica prova che potrebbe incastrarli per un orribile omicidio: il proiettile conficcato nella sua gamba. Con un agente veterano che diventa il suo protettore, la notte diventerà ancora più pericolosa…",
+      "year": "2019",
+      "saga": "AZIONE ",
+      "director": "Christopher Nolan",
+      "qualcosa": "5 Star",
+      "actors": ["Christian Bale","Michael Caine","Heath Ledger","Gary Oldman","Aaron Eckhart","Maggie Gyllenhaal","Morgan Freeman","Eric Roberts"],
+      "links": [
+        {
+          "url": "https://mixdrop.club/f/xolvxw69c1vw8m/2/Trauma_Center_HD_2019_Bluray_1080p.mp4",
+          "quality":"HD"
+        },
       ]
     }
   ]
