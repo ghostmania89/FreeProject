@@ -1,17 +1,88 @@
 {
-  "channel_name": "Teka_Movie",
-  "fanart": "https://www.dropbox.com/s/7gfnv8stnw42vwg/GhostRider.jpg?dl=1",
-  "thumbnail": "https://www.dropbox.com/s/7gfnv8stnw42vwg/GhostRider.jpg?dl=1",
-  "menu": [
+  "movies_list": [
     {
-      "title": "Film",
-      "link": "https://mixdrop.co/f/rwp3oodlhzwmmg/2/Live_Corsa_contro_il_tempo_HD_2019_Bluray_1080p.mp4",
-      "thumbnail": "link diretto dell'immagine scelta"
+      "title": "LIVE! – CORSA CONTRO IL TEMPO",
+      "year": "2019",
+      "saga": "AZIONE – DURATA 99",
+      "director": "Jon Favreau",
+      "qualcosa": "4 Star",
+      "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges", "Terrence Howard", "Leslie Bibb", "Shaun Toub", "Faran Tahir", "Clark Gregg", "Jon Favreau"],
+      "links": [
+        {
+          "url": "https://mixdrop.co/f/rwp3oodlhzwmmg/2/Live_Corsa_contro_il_tempo_HD_2019_Bluray_1080p.mp4",
+          "quality":"HD"
+        }
+      ]
     },
     {
-      "title": "Serie",
-      "link": "https://www.dropbox.com/s/pwz73cvy9gau5ky/SERIE%20TV%20%20-%20STAGIONI%20COMPLETE%20.xml?dl=1",
-      "thumbnail": "link diretto dell'immagine scelta"
+      "title": "L'incredibile Hulk",
+      "year": "2008",
+      "saga": "Marvel Cinematic Universe",
+      "director": "Louis Leterrier",
+      "qualcosa": "3.5 Star",
+      "actors": ["Edward Norton", "Liv Tyler", "Tim Roth", "Tim Blake Nelson", "Ty Burrell", "William Hurt"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Iron Man 2",
+      "year": "2010",
+      "saga": "Marvel Cinematic Universe",
+      "director": "Jon Favreau",
+      "qualcosa": "4 Star",
+      "actors": ["Robert Downey Jr.","Gwyneth Paltrow","Don Cheadle","Scarlett Johansson","Sam Rockwell","Mickey Rourke","Samuel L. Jackson"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Batman Begins",
+      "year": "2005",
+      "saga": "Il cavaliere oscuro",
+      "director": "Christopher Nolan",
+      "qualcosa": "5 Star",
+      "actors": ["Christian Bale","Michael Caine","Liam Neeson","Katie Holmes","Gary Oldman","Cillian Murphy","Tom Wilkinson","Rutger Hauer","Ken Watanabe","Morgan Freeman","Mark Boone Junior","Linus Roache","Larry Holden","Colin McFarlane","Gerard Murphy","Sara Stewart","Richard Brake"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Il cavaliere oscuro",
+      "year": "2008",
+      "saga": "Il cavaliere oscuro",
+      "director": "Christopher Nolan",
+      "qualcosa": "5 Star",
+      "actors": ["Christian Bale","Michael Caine","Gary Oldman","Anne Hathaway","Tom Hardy","Marion Cotillard","Joseph Gordon-Levitt","Morgan Freeman","Ben Mendelsohn","Matthew Modine"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Il cavaliere oscuro - Il ritorno",
+      "year": "2012",
+      "saga": "Il cavaliere oscuro",
+      "director": "Christopher Nolan",
+      "qualcosa": "5 Star",
+      "actors": ["Christian Bale","Michael Caine","Heath Ledger","Gary Oldman","Aaron Eckhart","Maggie Gyllenhaal","Morgan Freeman","Eric Roberts"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
     }
   ]
-} 
+}
