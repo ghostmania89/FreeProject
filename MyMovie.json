@@ -1,7 +1,7 @@
 {
   "movies_list": [
     {
-      "title": "Iron Man",
+      "title": "Ghost",
       "year": "2008",
       "saga": "Marvel Cinematic Universe",
       "director": "Jon Favreau",
@@ -9,7 +9,7 @@
       "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges", "Terrence Howard", "Leslie Bibb", "Shaun Toub", "Faran Tahir", "Clark Gregg", "Jon Favreau"],
       "links": [
         {
-          "url": "https://mega.nz/#!dCojkAgA!7XNddND-UBZSQosh9JNtxvpMvLDHB9L1kAVZYjsivic",
+          "url": "http://wolfghost.altervista.org/VideoGhost/index.php",
           "quality":"HD"
         }
       ]
