@@ -31,20 +31,6 @@
       ]
     },
     {
-      "title": "ROGUE ONE – A STAR WARS STORY",
-      "year": "2016",
-      "saga": "Marvel Cinematic Universe",
-      "director": "Jon Favreau",
-      "qualcosa": "4 Star",
-      "actors": ["Robert Downey Jr.","Gwyneth Paltrow","Don Cheadle","Scarlett Johansson","Sam Rockwell","Mickey Rourke","Samuel L. Jackson"],
-      "links": [
-        {
-          "url": "",
-          "quality":"HD"
-        }
-      ]
-    },
-    {
       "title": "Batman Begins",
       "year": "2005",
       "saga": "Il cavaliere oscuro",
