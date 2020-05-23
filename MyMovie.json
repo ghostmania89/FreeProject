@@ -1,76 +1,22 @@
 {
-  "movies_list": [
+  "channel_name": "Repo_GhostTeka",
+  "fanart": "",
+  "thumbnail": "",
+  "menu": [
     {
-      "title": "CODICE MAGNUM",
-      "year": "1986",
-	  "info": "Radiato dall’Fbi per i suoi metodi sbrigativi, Mark Kaminski (Schwarzenegger) si dà da fare per trovare gli assassini del figlio di Harry Shannon, un non più giovane ex collega. Dopo aver simulato la propria morte, si infiltra tra i ranghi della potente famiglia mafiosa dei Petrovita, facendo uno sconquasso tale da fruttargli la riabilitazione come agente federale",
-      "4k": "Marvel Cinematic Universe",
-      "director": "Jon Favreau",
-      "qualcosa": "4 Star",
-      "actors": [" Arnold Schwarzenegger.", " Kathryn Harrold", " Paul Shenar"],
-      "links": [
-        {
-          "url": "https://supervideo.tv/7o970jlrtbmf",
-		  "url": "https://mixdrop.co/f/ubyjf?download",
-          "quality":"HD"
-        }
-      ]
+      "title": "Film",
+      "link": "",
+      "thumbnail": ""
     },
     {
-      "title": "ROGUE ONE – A STAR WARS STORY",
-      "year": "2016",
-      "4K": "Selezione by Wolman",
-      "director": "Louis Leterrier",
-      "qualcosa": "3.5 Star",
-      "actors": ["Edward Norton", "Liv Tyler", "Tim Roth", "Tim Blake Nelson", "Ty Burrell", "William Hurt"],
-      "links": [
-        {
-          "url": "https://supervideo.tv/r22ilqlve7tu",
-          "quality":"HD"
-        }
-      ]
+      "title": "SerieTV",
+      "link": "",
+      "thumbnail": ""
     },
     {
-      "title": "Batman Begins",
-      "year": "2005",
-      "saga": "Il cavaliere oscuro",
-      "director": "Christopher Nolan",
-      "qualcosa": "5 Star",
-      "actors": ["Christian Bale","Michael Caine","Liam Neeson","Katie Holmes","Gary Oldman","Cillian Murphy","Tom Wilkinson","Rutger Hauer","Ken Watanabe","Morgan Freeman","Mark Boone Junior","Linus Roache","Larry Holden","Colin McFarlane","Gerard Murphy","Sara Stewart","Richard Brake"],
-      "links": [
-        {
-          "url": "https://supervideo.tv/n2nxhdy7h8nh",
-          "quality":"HD"
-        }
-      ]
-    },
-    {
-      "title": "Il cavaliere oscuro",
-      "year": "2008",
-      "saga": "Il cavaliere oscuro",
-      "director": "Christopher Nolan",
-      "qualcosa": "5 Star",
-      "actors": ["Christian Bale","Michael Caine","Gary Oldman","Anne Hathaway","Tom Hardy","Marion Cotillard","Joseph Gordon-Levitt","Morgan Freeman","Ben Mendelsohn","Matthew Modine"],
-      "links": [
-        {
-          "url": "",
-          "quality":"HD"
-        }
-      ]
-    },
-    {
-      "title": "Il cavaliere oscuro - Il ritorno",
-      "year": "2012",
-      "saga": "Il cavaliere oscuro",
-      "director": "Christopher Nolan",
-      "qualcosa": "5 Star",
-      "actors": ["Christian Bale","Michael Caine","Heath Ledger","Gary Oldman","Aaron Eckhart","Maggie Gyllenhaal","Morgan Freeman","Eric Roberts"],
-      "links": [
-        {
-          "url": "https://supervideo.tv/1iimcxa1zw8d",
-          "quality":"HD"
-        }
-      ]
-    }
+      "title": "Cartoni",
+      "link": "",
+      "thumbnail": ""
+    }  
   ]
 }
