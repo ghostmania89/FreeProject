@@ -17,22 +17,4 @@
         }
       ]
     },
-	{
-      "number": "TEST2",
-      "title": "Episode 4",
-      "tumbnail": "pino-4.jpg",
-      "plot": "Pinocchio, su suggerimento di un contadino, denuncia il furto ad un giudice del posto, che però lo mette in prigione, incredulo della sua storia, ma viene liberato grazie ad un'amnistia, quattro mesi dopo. Geppetto, intanto, trova al porto da cui è partito il teatro ambulante il vestitino di Pinocchio e si convince definitivamente che Mangiafoco ha rapito il suo bambino per portarlo con sé nelle lontane Americhe.",
-      "tmdb_id": 86662,
-      "saga": "Le avventure di Pinocchio",
-      "genre": ["avventura", "fantasy", "drammatico"],
-      "actors": ["Andrea Balestri", "Nino Manfredi", "Gina Lollobrigida", "Franco Franchi", "Ciccio Ingrassia"],
-      "director": "Luigi Comencini",
-      "links": [
-        {
-          "url": "https://YouTube.it/_OMNjjfMqn0f",
-          "quality":"Trailer",
-          "url": "http://www.mediafire.com/file/6ovykoha3hulkcj/Watch_Dracula_Untold_%255BHD%255D_%25282014%2529_Bluray_1080p_by_%2540wolfman.mp4/file"
-          "quality":"Trailer"
-        }
-      ]
-    },
+	
